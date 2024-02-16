@@ -1,4 +1,4 @@
-package com.leticiacampos.recursoshumanos;
+package com.leticiacampos.rhworker;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
